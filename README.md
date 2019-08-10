@@ -26,4 +26,4 @@
 
 ## 交流
 
-![1565412066750](C:\Users\Joee\Desktop\github\homepage\static\images\communication-qr-code_36759691-a392-46c8-bd8f-e1c60ae58905.jpg)
+![communication-qr-code_36759691-a392-46c8-bd8f-e1c60ae58905](./static/images/communication-qr-code_36759691-a392-46c8-bd8f-e1c60ae58905.jpg)
