@@ -1,3 +1,3 @@
-[submodule "semantic-search/notes"]
+[submodule "semantic-search"]
 	path = semantic-search/notes
-	url = https://github.com/Joee1995/semantic-search
+	url = https://github.com/Joee1995/semantic-search-notes
