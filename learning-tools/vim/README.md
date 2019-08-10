@@ -1,22 +1,22 @@
-# Vim 配置笔记 #
+# Vim 配置笔记
 
 > OS：Ubuntu 18.04
 
 上古神器 Vim 配置记录，个人 [.vimrc](<https://github.com/Joee1995/AI-Learning-Notes/blob/master/学习工具/Vim/vimrc>) 配置文件
 
-## 安装 ##
+## 安装
 
 ```
 zhou@zhou-ubuntu:~$ sudo apt-get install vim
 ```
 
-## 新手指南 ##
+## 新手指南
 
 ```
 zhou@zhou-ubuntu:~$ vimtutor
 ```
 
-## 基本使用 ##
+## 基本使用
 
 参考：[Vim 基本使用方法](<https://blog.51cto.com/13525470/2053771>)
 
@@ -51,7 +51,7 @@ filetype indent on
 autocmd BufWritePost $MYVIMRC source $MYVIMRC
 ```
 
-## 插件管理 ##
+## 插件管理
 
 参考：[Vim-plug：极简 Vim 插件管理器](<https://linux.cn/article-9751-1.html>)
 
@@ -168,7 +168,7 @@ let g:livepreview_previewer='zathura'
 " let g:livepreview_cursorhold_recompile=0
 ```
 
-## 奈斯的插件 ##
+## 奈斯的插件
 
 插件：[SirVer/ultisnips](<https://github.com/SirVer/ultisnips>)
 
@@ -192,7 +192,7 @@ let g:livepreview_previewer='zathura'
 
 插件：[Xuyuanp/nerdtree-git-plugin](<https://github.com/Xuyuanp/nerdtree-git-plugin>)
 
-## Vim 打造 ##
+## Vim 打造
 
 参考：[Vim 神器的打造方式](<https://www.cnblogs.com/yangshunde/p/7775010.html>)
 

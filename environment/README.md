@@ -1,10 +1,10 @@
-# Ubuntu 18.04 环境搭建笔记 #
+# Ubuntu 18.04 环境搭建笔记
 
 > Environment: Ubuntu 18.04 + NVIDIA 驱动 + CUDA 10 + cuDNN + Anaconda 3 + PyCharm
 
 Ubuntu 18.04 学习环境搭建记录
 
-## Step 1 - Ubuntu 18.04 ##
+## Step 1 - Ubuntu 18.04
 
 参考：[如何制作 linux 系统 U盘启动盘](<https://blog.csdn.net/u010801439/article/details/80483515>)
 
@@ -26,7 +26,7 @@ Ubuntu 18.04 学习环境搭建记录
 
 参考：[Set up Linux PPTP Client from the Terminal](<https://www.jamescoyle.net/how-to/963-set-up-linux-pptp-client-from-the-terminal>)
 
-## Step 2 - 备份与还原 ##
+## Step 2 - 备份与还原
 
 参考：[Ubuntu 18.04 备份与还原](<https://www.jianshu.com/p/cd05da430daf>)
 
@@ -34,7 +34,7 @@ Ubuntu 18.04 学习环境搭建记录
 
 参考：[把当前 Ubuntu 系统做成镜像](<https://www.cnblogs.com/linuxAndMcu/p/10774020.html>)
 
-## Step 3 - Git/Github ##
+## Step 3 - Git/Github
 
 参考：[Ubuntu 18.04 下 GitHub 和 Git 的安装配置入门教程](<https://www.linuxidc.com/Linux/2018-05/152611.htm>)
 
@@ -42,13 +42,13 @@ Ubuntu 18.04 学习环境搭建记录
 
 文档：[Git LFS 操作指南](<https://zzz.buzz/zh/2016/04/19/the-guide-to-git-lfs/>)
 
-## Step 4 - Node.js + npm/cnpm ##
+## Step 4 - Node.js + npm/cnpm
 
 参考：[Node.js Installation](<https://github.com/nodejs/help/wiki/Installation>)
 
 参考：[使用淘宝 NPM 镜像 - cnpm](<http://npm.taobao.org/>)
 
-## Step 5 - NVIDIA 驱动 ##
+## Step 5 - NVIDIA 驱动
 
 参考：[在Ubuntu 18.04 上安装 NVIDIA 驱动程序](<https://linuxconfig.org/how-to-install-the-nvidia-drivers-on-ubuntu-18-04-bionic-beaver-linux#h7-automatic-install-using-ppa-repository-to-install-nvidia-beta-drivers>)
 
@@ -58,7 +58,7 @@ Ubuntu 18.04 学习环境搭建记录
 
 参考：[在Ubuntu 18.04 上禁用 nouveau NVIDIA 驱动程序](<https://linuxconfig.org/how-to-disable-nouveau-nvidia-driver-on-ubuntu-18-04-bionic-beaver-linux>)
 
-## Step 6 - CUDA 10.0 + cuDNN ##
+## Step 6 - CUDA 10.0 + cuDNN
 
 参考：[真实机下 Ubuntu 18.04 安装 GPU + CUDA + cuDNN](<https://blog.csdn.net/u010801439/article/details/80483036>)
 
@@ -68,7 +68,7 @@ Ubuntu 18.04 学习环境搭建记录
 
 参考：[Ubuntu 18.04 安装 CUDA 9.0 和 cuDNN 7.0](<https://blog.csdn.net/CAU_Ayao/article/details/83627342>)
 
-## Step 7 - Anaconda 3 ##
+## Step 7 - Anaconda 3
 
 参考：[在 Ubuntu 18.04 上安装 Anaconda](<https://cloud.tencent.com/developer/article/1349098>)
 
@@ -84,31 +84,31 @@ Ubuntu 18.04 学习环境搭建记录
 
 参考：[Anaconda 换国内源、删源最全集锦](<https://blog.csdn.net/observador/article/details/83618540>)
 
-## Step 8 - Java ##
+## Step 8 - Java
 
 参考：[Ubuntu 18.04 安装 JDK 1.8](<https://www.cnblogs.com/luoli-/p/9247952.html>)
 
-## Step 9 - PyCharm ##
+## Step 9 - PyCharm
 
 参考：[Ubuntu 18.04 安装 PyCharm](<https://blog.csdn.net/qq_15192373/article/details/81091278>)
 
-## Step 10 - IntelliJ IDEA ##
+## Step 10 - IntelliJ IDEA
 
 参考：[Ubuntu 18.04 安装 IntelliJ IDEA](<https://www.cnblogs.com/yanyh/p/9775924.html>)
 
-## Step 11 - VS Code ##
+## Step 11 - VS Code
 
 参考：[Visual Studio Code on Linux](<https://code.visualstudio.com/docs/setup/linux>)
 
 参考：[Documentation for Visual Studio Code](<https://code.visualstudio.com/docs?start=true>)
 
-## Step 12 - Typora ##
+## Step 12 - Typora
 
 参考：[Ubuntu 下安装 Typora + Mathpix Snip](<https://blog.csdn.net/caoyangyang123/article/details/79484697>)
 
 参考：[Mathpix Snip - 公式神器](<https://blog.csdn.net/qq_34243930/article/details/89158366>)
 
-## Step 13 - Docker + Nvidia-Docker ##
+## Step 13 - Docker + Nvidia-Docker
 
 参考：[Ubuntu 18.04 安装 Docker CE 及 Nvidia-Docker2](<https://www.linuxidc.com/Linux/2019-05/158421.htm>)
 
@@ -116,11 +116,11 @@ Ubuntu 18.04 学习环境搭建记录
 
 参考：[Docker 设置国内安装源](<https://www.jianshu.com/p/863324faa003>)
 
-## Step 14 - TeamViewer ##
+## Step 14 - TeamViewer
 
 参考：[在 Ubuntu 18.04 上安装 TeamViewer](<https://www.linuxidc.com/Linux/2018-05/152282.htm>)
 
-## Step 15 - TeX Live 2019 ##
+## Step 15 - TeX Live 2019
 
 镜像：[TeX Live 清华镜像](<https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/>)
 
@@ -130,7 +130,7 @@ Ubuntu 18.04 学习环境搭建记录
 
 参考：[Ubuntu 18.04 环境下安装与配置 TeX Live 2018](<http://www.pianshen.com/article/4418304165/>)
 
-## Step 16 - Vim及其配置 ##
+## Step 16 - Vim及其配置
 
 参考：[1700页数学笔记火了！](<https://zhuanlan.zhihu.com/p/60049290>)
 
@@ -154,13 +154,13 @@ Ubuntu 18.04 学习环境搭建记录
 
 插件：[Xuyuanp/nerdtree-git-plugin](<https://github.com/Xuyuanp/nerdtree-git-plugin>)
 
-## Step 17 - WireShark ##
+## Step 17 - WireShark
 
 参考：[Ubuntu 18.04 安装 WireShark 及网卡接口权限问题](<https://blog.csdn.net/qwqw3qee/article/details/90546564>)
 
 参考：[在 Ubuntu 18.04 桌面系统上安装 WireShark](<https://ywnz.com/linuxjc/4002.html>)
 
-## Step 18 - FFmpeg ##
+## Step 18 - FFmpeg
 
 参考：[在 Ubuntu 18.04/16.04 中安装 FFmpeg 4](<https://www.linuxidc.com/Linux/2018-10/154933.htm>)
 
@@ -168,23 +168,27 @@ Ubuntu 18.04 学习环境搭建记录
 
 文档：[FFmpeg Documentation](<http://ffmpeg.org/documentation.html>)
 
-## Step 19 - MySQL/PostgreSQL  ##
+## Step 19 - MySQL/PostgreSQL
 
 参考：[如何在 Ubuntu 18.04 中安装 MySQL 8.0](<http://www.php.cn/mysql-tutorials-414809.html>)
 
 参考：[Linux 上安装 PostgreSQL](<https://www.runoob.com/postgresql/linux-install-postgresql.html>)
 
-## Step 20 - Jena + Fuseki ##
+## Step 21 - MongoDB
+
+参考：[如何在 Ubuntu 18.04 安装配置 MongoDB](<https://www.linuxidc.com/Linux/2018-05/152253.htm>)
+
+## Step 21 - Jena + Fuseki
 
 参考：[Apache Jena Releases](<https://jena.apache.org/download/>)
 
 参考：[Jena 的安装和介绍（包括 Fuseki）](<http://www.ljlovelyforever.com/2019/04/25/jena的安装和介绍/>)
 
-## Step 21 - Neo4j ##
+## Step 22 - Neo4j
 
 参考：[linux 下的单机的 neo4j 社区版安装](<https://blog.csdn.net/kongxiangweiwork/article/details/84797758>)
 
-## Step 22 - QQ/TIM/WeChat ##
+## Step 23 - QQ/TIM/WeChat
 
 参考：[Ubuntu 18.04 安装 微信/QQ/TIM 等常用软件](<https://blog.csdn.net/qq_38627802/article/details/88209523>)
 
@@ -196,7 +200,7 @@ Ubuntu 18.04 学习环境搭建记录
 
 参考：[Ubuntu 18.04 上安装 Shutter 并启用 Edit 功能](<https://ijuer.com/ubuntu-18-04-上安装-shutter-并启用-edit-功能/>)
 
-## Step oo - Others ##
+## Step oo - Others
 
 参考：[Ubuntu 18.04 安装、配置和美化](<https://www.cnblogs.com/xiyu714/p/9900525.html>)
 

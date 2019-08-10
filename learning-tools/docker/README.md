@@ -1,14 +1,14 @@
-# 零基础入门 Docker #
-## Docker 目录 ##
+# 零基础入门 Docker
+## Docker 目录
 
 [TOC]
 
-## Docker 前言 ##
+## Docker 前言
 
 Docker 是什么？
 Docker 是一个虚拟环境容器，可以将你的开发环境、代码、配置文件等一并打包到这个容器中，并发布和应用到任意平台中。具体查看 [Docker 官方文档](https://docs.docker.com/)
 
-## Docker 三个概念 ##
+## Docker 三个概念
 
 * 镜像（Image）：类似于虚拟机中的镜像，是一个包含有文件系统的面向Docker引擎的只读模板。任何应用程序运行都需要环境，而镜像就是用来提供这种运行环境的。例如一个Ubuntu镜像就是一个包含Ubuntu操作系统环境的模板，同理在该镜像上装上Apache软件，就可以称为Apache镜像。
 
@@ -16,7 +16,7 @@ Docker 是一个虚拟环境容器，可以将你的开发环境、代码、配�
 
 * 仓库（Repository）：类似于代码仓库，这里是镜像仓库，是Docker用来集中存放镜像文件的地方。注意与注册服务器（Registry）的区别：注册服务器是存放仓库的地方，一般会有多个仓库；而仓库是存放镜像的地方，一般每个仓库存放一类镜像，每个镜像利用tag进行区分，比如Ubuntu仓库存放有多个版本（12.04、14.04等）的Ubuntu镜像。
 
-## Docker 安装与卸载 ##
+## Docker 安装与卸载
 
 Docker可以安装在Windows、Linux、Mac等各个平台上。具体查看 [安装文档](<https://docs.docker.com/install/>)。
 
@@ -25,7 +25,7 @@ Docker可以安装在Windows、Linux、Mac等各个平台上。具体查看 [安
 zhou@zhou-ubuntu:~$ sudo docker version
 ```
 
-## Docker 国内安装源 ##
+## Docker 国内安装源
 
 * 阿里云 Docker 加速器
 
@@ -53,7 +53,7 @@ zhou@zhou-ubuntu:~$ vim /etc/docker/daemon.json
 sudo service docker restart
 ```
 
-## Docker 镜像的基本操作 ##
+## Docker 镜像的基本操作
 
 安装 Docker 完成后，可以对镜像进行基本操作
 
@@ -112,7 +112,7 @@ zhou@zhou-ubuntu:~$ sudo docker save -o ubuntu.git.tar zhou/ubuntu:git
 zhou@zhou-ubuntu:~$ sudo docker load -i ubuntu.git.tar
 ```
 
-## Docker 容器的基本操作 ##
+## Docker 容器的基本操作
 
 有了镜像之后，可以基于镜像启动容器。关于 run 命令，可以查看 [docker run 命令](<https://zhuanlan.zhihu.com/p/53260098>) 或者 [docker run 命令详解](<https://blog.csdn.net/yinni11/article/details/81559175>)
 
@@ -154,7 +154,7 @@ zhou@zhou-ubuntu:~$ sudo docker restart 05536a7cd824
 zhou@zhou-ubuntu:~$ sudo docker attach 05536a7cd824
 ```
 
-## Docker 参考 ##
+## Docker 参考
 
 [10分钟看懂Docker和K8S](<https://zhuanlan.zhihu.com/p/53260098>)
 

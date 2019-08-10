@@ -1,10 +1,10 @@
-# Bspwm 配置笔记 #
+# Bspwm 配置笔记
 
 > OS：Ubuntu 18.04
 
 Sxhkd + Bspwm 配置记录
 
-## 安装 ##
+## 安装
 
 **依赖**
 
