@@ -13,14 +13,17 @@
 .
 |--- environment        # 学习环境的搭建记录
 |--- learning-tools     # 一些高效学习工具的笔记
+     |--- bspwm
+     |--- docker
+     |--- vim
 |--- methodology        # 一些学习方法论的笔记
+|--- static             # 静态资源文件
+     |--- images
+|--- README.md          # 当前文件
 ```
 
 > 为了避免仓库过于庞大，除了环境搭建、学习工具和学习方法论，其他部分将另建仓库然后作为子模块引入本仓库。
 
 ## 交流
 
-|                             TIM                              |                             微信                             |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![QQ二维码_36759691-a392-46c8-bd8f-e1c60ae58905](./static/images/qq-qr-code_36759691-a392-46c8-bd8f-e1c60ae58905.jpg) | ![微信二维码_36759691-a392-46c8-bd8f-e1c60ae58905](./static/images/wechat-qr-code_9b474baf-1e45-4281-a8f7-c5b8a07999a5.jpg) |
-
+![1565412066750](C:\Users\Joee\Desktop\github\homepage\static\images\communication-qr-code_36759691-a392-46c8-bd8f-e1c60ae58905.jpg)
