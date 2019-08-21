@@ -1,3 +1,6 @@
 [submodule "semantic-search/notes"]
 	path = semantic-search/notes
 	url = https://github.com/Joee1995/semantic-search-notes
+[submodule "about-ml"]
+	path = about-ml
+	url = https://github.com/Joee1995/about-ml
