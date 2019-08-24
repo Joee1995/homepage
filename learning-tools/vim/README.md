@@ -2,7 +2,7 @@
 
 > OS：Ubuntu 18.04
 
-上古神器 Vim 配置记录，个人 [.vimrc](<https://github.com/Joee1995/AI-Learning-Notes/blob/master/学习工具/Vim/vimrc>) 配置文件
+上古神器 Vim 配置记录，个人 [.vimrc](<https://github.com/Joee1995/homepage/blob/master/learning-tools/vim/vimrc>) 配置文件
 
 ## 安装
 
