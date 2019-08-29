@@ -2,7 +2,7 @@
 
 > OS：Ubuntu 18.04
 
-上古神器 Vim 配置记录，个人 [.vimrc](<https://github.com/Joee1995/homepage/blob/master/learning-tools/vim/vimrc>) 配置文件
+上古神器 Vim 配置记录，个人 [.vimrc](<https://github.com/Joee1995/AI-Learning-Notes/blob/master/学习工具/Vim/vimrc>) 配置文件
 
 ## 安装
 
@@ -18,11 +18,11 @@ zhou@zhou-ubuntu:~$ vimtutor
 
 ## 基本使用
 
-参考：[Vim 基本使用方法](<https://blog.51cto.com/13525470/2053771>)
+参考：[Vim 基本使用方法](<https://blog.51cto.com/13525470/2053771>) 
 
-参考：[Vim 键位映射 map](<https://blog.csdn.net/zgqxiexie/article/details/72973662>)
+参考：[Vim 键位映射 map](<https://blog.csdn.net/zgqxiexie/article/details/72973662>) 
 
-参考：[Vim 使用 map 自定义快捷键](<https://blog.csdn.net/jasonding1354/article/details/45372007>)
+参考：[Vim 使用 map 自定义快捷键](<https://blog.csdn.net/jasonding1354/article/details/45372007>) 
 
 个人基本配置 `~/.vimrc` (超简易版)：
 
@@ -53,11 +53,11 @@ autocmd BufWritePost $MYVIMRC source $MYVIMRC
 
 ## 插件管理
 
-参考：[Vim-plug：极简 Vim 插件管理器](<https://linux.cn/article-9751-1.html>)
+参考：[Vim-plug：极简 Vim 插件管理器](<https://linux.cn/article-9751-1.html>) 
 
-参考：[VIM 插件管理工具 vim-plug 简明教程](<https://hiberabyss.github.io/2018/03/21/vim-plug-introduction/>)
+参考：[VIM 插件管理工具 vim-plug 简明教程](<https://hiberabyss.github.io/2018/03/21/vim-plug-introduction/>) 
 
-参考：[Vim 配置及插件安装管理](<https://blog.csdn.net/namecyf/article/details/7787479>)
+参考：[Vim 配置及插件安装管理](<https://blog.csdn.net/namecyf/article/details/7787479>) 
 
 安装 vim-plug 插件管理
 
@@ -103,7 +103,7 @@ zhou@zhou-ubuntu:~$ vim
 :PlugUpgrade
 ```
 
-个人插件配置 `~/.vimrc` (持续更新)：
+个人插件配置 `~/.vimrc` ：
 
 ```
 " Plugins will be downloaded under the specified directory.
@@ -170,30 +170,30 @@ let g:livepreview_previewer='zathura'
 
 ## 奈斯的插件
 
-插件：[SirVer/ultisnips](<https://github.com/SirVer/ultisnips>)
+插件：[SirVer/ultisnips](<https://github.com/SirVer/ultisnips>) 
 
-插件：[honza/vim-snippets](<https://github.com/honza/vim-snippets>)
+插件：[honza/vim-snippets](<https://github.com/honza/vim-snippets>) 
 
-参考：[VIM 代码片段插件 ultisnips 使用教程](<https://blog.51cto.com/10245818/2167828>)
+参考：[VIM 代码片段插件 ultisnips 使用教程](<https://blog.51cto.com/10245818/2167828>) 
 
-参考：[简述 Vim 插件——UltiSnips 配置代码片段](<https://blog.csdn.net/guchuanhang/article/details/72953770>)
+参考：[简述 Vim 插件——UltiSnips 配置代码片段](<https://blog.csdn.net/guchuanhang/article/details/72953770>) 
 
-参考：[vim 入坑指南（六）插件 UltiSnips](<https://vimzijun.net/2016/10/30/ultisnip/>)
+参考：[vim 入坑指南（六）插件 UltiSnips](<https://vimzijun.net/2016/10/30/ultisnip/>) 
 
-插件：[lervag/vimtex](<https://github.com/lervag/vimtex>)
+插件：[lervag/vimtex](<https://github.com/lervag/vimtex>) 
 
-参考：[vimtex documentation](<https://github.com/lervag/vimtex/blob/master/README.md>)
+参考：[vimtex documentation](<https://github.com/lervag/vimtex/blob/master/README.md>) 
 
-插件：[xuhdev/vim-latex-live-preview](<https://github.com/xuhdev/vim-latex-live-preview>)
+插件：[xuhdev/vim-latex-live-preview](<https://github.com/xuhdev/vim-latex-live-preview>) 
 
-参考：[Lively Previewing LaTeX PDF Output](<https://github.com/xuhdev/vim-latex-live-preview/blob/master/README.md>)
+参考：[Lively Previewing LaTeX PDF Output](<https://github.com/xuhdev/vim-latex-live-preview/blob/master/README.md>) 
 
-插件：[scrooloose/nerdtree](<https://github.com/scrooloose/nerdtree>)
+插件：[scrooloose/nerdtree](<https://github.com/scrooloose/nerdtree>) 
 
-插件：[Xuyuanp/nerdtree-git-plugin](<https://github.com/Xuyuanp/nerdtree-git-plugin>)
+插件：[Xuyuanp/nerdtree-git-plugin](<https://github.com/Xuyuanp/nerdtree-git-plugin>) 
 
 ## Vim 打造
 
-参考：[Vim 神器的打造方式](<https://www.cnblogs.com/yangshunde/p/7775010.html>)
+参考：[Vim 神器的打造方式](<https://www.cnblogs.com/yangshunde/p/7775010.html>) 
 
-参考：[V 字君的 Vimpress](<https://vimzijun.net/categories/>)
+参考：[V 字君的 Vimpress](<https://vimzijun.net/categories/>) 

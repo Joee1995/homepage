@@ -6,7 +6,7 @@
 ## Docker 前言
 
 Docker 是什么？
-Docker 是一个虚拟环境容器，可以将你的开发环境、代码、配置文件等一并打包到这个容器中，并发布和应用到任意平台中。具体查看 [Docker 官方文档](https://docs.docker.com/)
+Docker 是一个虚拟环境容器，可以将你的开发环境、代码、配置文件等一并打包到这个容器中，并发布和应用到任意平台中。具体查看 [Docker 官方文档](https://docs.docker.com/) 
 
 ## Docker 三个概念
 
@@ -114,7 +114,7 @@ zhou@zhou-ubuntu:~$ sudo docker load -i ubuntu.git.tar
 
 ## Docker 容器的基本操作
 
-有了镜像之后，可以基于镜像启动容器。关于 run 命令，可以查看 [docker run 命令](<https://zhuanlan.zhihu.com/p/53260098>) 或者 [docker run 命令详解](<https://blog.csdn.net/yinni11/article/details/81559175>)
+有了镜像之后，可以基于镜像启动容器。关于 run 命令，可以查看 [docker run 命令](<https://zhuanlan.zhihu.com/p/53260098>) 或者 [docker run 命令详解](<https://blog.csdn.net/yinni11/article/details/81559175>) 
 
 ```
 # docker run -it [image]:[tag] [terminal]
@@ -156,6 +156,6 @@ zhou@zhou-ubuntu:~$ sudo docker attach 05536a7cd824
 
 ## Docker 参考
 
-[10分钟看懂Docker和K8S](<https://zhuanlan.zhihu.com/p/53260098>)
+[10分钟看懂Docker和K8S](<https://zhuanlan.zhihu.com/p/53260098>) 
 
-[只要一小时，零基础入门Docker](<https://zhuanlan.zhihu.com/p/23599229>)
+[只要一小时，零基础入门Docker](<https://zhuanlan.zhihu.com/p/23599229>) 
