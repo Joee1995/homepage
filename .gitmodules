@@ -4,3 +4,6 @@
 [submodule "about-ml"]
 	path = about-ml
 	url = https://github.com/Joee1995/about-ml
+[submodule "about-math"]
+	path = about-math
+	url = https://github.com/Joee1995/about-math.git
