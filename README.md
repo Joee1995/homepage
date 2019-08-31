@@ -17,6 +17,8 @@
 
 ```
 .
+|--- about-math         # 数学学习资源笔记
+|--- about-ml           # 机器学习资源笔记
 |--- environment        # 学习环境的搭建记录
 |--- learning-tools     # 一些高效学习工具的笔记
      |--- bspwm
