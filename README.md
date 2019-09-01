@@ -5,11 +5,9 @@
 
 ## 学习日志
 
+- 2019.09.01：近来陆陆续续也是看了一些线代/矩阵理论的东西，主要是马同学的 [线性代数系列博客](<https://www.matongxue.com/columns/3/>)，算是大开眼界了。此外还有知乎上的 [矩阵求导术（上）](<https://zhuanlan.zhihu.com/p/24709748>)& [矩阵求导术（下）](<https://zhuanlan.zhihu.com/p/24863977>)。身为一个 AI 界菜鸡码农，不求像数学系大佬们一样“徜徉在数学的海洋中无法自拔”，但对线代/矩阵理论和概率统计有相当程度的认识还是很有必要的。另，数学部分笔记也上传至仓库 [Joee1995/about-math](<https://github.com/Joee1995/about-math>)。
 - 2019.08.14：语义搜索项目子任务 - 评论数据中的特定事件检测（尚未完成），衍生代码库 [Joee1995/eng_text_norm](<https://github.com/Joee1995/eng_text_norm>)，一个英文文本数据规范化工具。
-
 - 2019.08.10：因为接下来要做语义搜索/知识图谱相关的项目，所以快速过了一些相关的基础知识以及一些论文，算是准备工作。主要包括：[W3Cschool - XML 教程](<https://www.w3cschool.cn/xml/?>)，[W3Cschool - RDF 教程](<https://www.w3cschool.cn/rdf/?>)，[W3C - RDF 的 SPARQL 查询语言](<https://www.w3.org/TR/rdf-sparql-query/>)，[W3Cschool - MongoDB 教程](<https://www.w3cschool.cn/mongodb/?>) 以及 [thunlp/KRLPapers](<https://github.com/thunlp/KRLPapers>) 总结的论文。基本都还没有全部刷完，只看了基础的部分，相关笔记已经上传至新建仓库 [Joee1995/semantic-search](<https://github.com/Joee1995/semantic-search>)，然后作为子模块引入本仓库。
-
-- 2019.08.07：最近越来越感觉到数学的重要性，读一些数学性较强的论文已经开始懵逼了，所以做了个重要决定：先快速过一遍 ML&DL 数学基础，然后在做项目之余的闲暇时间尽可能再进一步深入学一些数学的东西。话不多说，先从线代开始吧，[MIT 线性代数视频](<http://open.163.com/special/opencourse/daishu.html>) & [MIT 线代中文笔记](<https://linalg.apachecn.org/#/>)。另外，笔记也很重要，以前从来没有系统地做过笔记（就算做笔记也是零零散散的），所以就有了现在这个[仓库](<https://github.com/Joee1995/homepage>)，除了新的笔记之外也会把自己以前的笔记陆续整理进来。
 
 ## 仓库结构
 
